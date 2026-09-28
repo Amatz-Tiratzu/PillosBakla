@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "I FOUND Local PostgreSQL",
+      "driver": "PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "postgres",
+      "username": "postgres",
+      "password": "${env:PGPASSWORD}"
+    }
+  ]
+}

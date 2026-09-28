@@ -1,0 +1,6 @@
+{
+  "name": "I FOUND - Lost & Found",
+  "description": "Lost and found recovery platform featuring comprehensive admin reporting, verified user contact via email, and PostgreSQL email logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

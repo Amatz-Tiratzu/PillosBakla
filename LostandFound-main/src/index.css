@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+	font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+	color: #292524;
+	background: #f5f6ef;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+}
+
+button,
+input,
+select,
+textarea {
+	font: inherit;
+}
+
+::placeholder {
+	color: #a8a29e;
+	opacity: 1;
+}
